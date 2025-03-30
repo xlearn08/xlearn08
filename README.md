@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abhishek @xlearn08
+# ![Waving](https://media.giphy.com/media/xTiTnIU8W5bAeo8y3O/giphy.gif) Hello, I'm Abhishek @xlearn08
 
 🚀 **Junior Python Backend Developer** | 🤖 **Machine Learning Enthusiast**  
 💼 Looking for **job opportunities** or **exciting projects** to collaborate on!
