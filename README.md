@@ -1,5 +1,5 @@
 # ![Waving](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHcyMGMxandmOTBoeTZkcDR3YmlwZ3NlbjB2NDhqdDd5bHJkdzdnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
-Hello, I'm Abhishek Tiwari 4th year student at Moscow Aviation Institute(National Research University )
+Hello, I'm Abhishek Tiwari 4th year student at Moscow Aviation Institute (National Research University )
 
 🚀 **Junior Python Backend Developer** | 🤖 **Machine Learning Enthusiast**  
 💼 Looking for **job opportunities** or **exciting projects** to collaborate on!
