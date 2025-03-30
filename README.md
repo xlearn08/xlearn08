@@ -1,9 +1,12 @@
-# ![Waving](https://media.giphy.com/media/xTiTnIU8W5bAeo8y3O/giphy.gif) Hello, I'm Abhishek @xlearn08
+# ![Waving](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHcyMGMxandmOTBoeTZkcDR3YmlwZ3NlbjB2NDhqdDd5bHJkdzdnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
+Hello, I'm Abhishek Tiwari 4th year student at Moscow Aviation Institute(National Research University )
 
 🚀 **Junior Python Backend Developer** | 🤖 **Machine Learning Enthusiast**  
 💼 Looking for **job opportunities** or **exciting projects** to collaborate on!
 
 ---
+
+
 
 ## 🔧 Technologies & Skills
 
@@ -11,6 +14,10 @@ Here are the tools and technologies I work with:
 
 ### **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ### **Backend Frameworks:**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
