@@ -43,15 +43,6 @@ Here are the tools and technologies I work with:
 - **CI/CD** practices and cloud deployments with AWS.
 - Diving deeper into **Machine Learning** and **Data Engineering**.
 
----
-
-## 🌍 Connect with Me
-
-Let’s connect!
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-username)
-- [Email](mailto:your-email@example.com)
 
 ---
 
@@ -61,7 +52,7 @@ Let’s connect!
 
 ---
 
-## 📫 Let's Connect:
+## 📫🌍 Let's Connect:
 - 📧 [Email](mailto:revilabhi@gmail.com)  
 - 📟 [Telegram](https://t.me/oohyess99)  
 
