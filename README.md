@@ -1,77 +1,142 @@
-# ![Waving](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHcyMGMxandmOTBoeTZkcDR3YmlwZ3NlbjB2NDhqdDd5bHJkdzdnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
-Hello, I'm Abhishek Tiwari  Graduate at Moscow Aviation Institute (National Research University )
+# ✈️ Hello, I'm Abhishek Tiwari
 
-🚀 **Junior Python Backend Developer** | 🤖 **Machine Learning/ Computer Vision Enthusiast**  
-💼 Looking for **job opportunities** or **exciting projects** to collaborate on!
+🎓 Aircraft Engineering Graduate from Moscow Aviation Institute (National Research University), Russia
+
+🛩️ Junior Quality Officer at Sita Air Ltd., Nepal
+
+📊 Aspiring Reliability & CAMO Engineer | 🔬 Aviation Data Analytics Researcher
+
+💡 Passionate about improving aircraft safety, maintenance efficiency, and continuing airworthiness through engineering, data analytics, and predictive maintenance.
 
 ---
 
+## 🚀 About Me
 
+I currently work in airline quality assurance and continuing airworthiness, supporting compliance with NCAR Part-145 and Part-M requirements while contributing to audits, reliability monitoring, and maintenance documentation.
 
-## 🔧 Technologies & Skills
+My long-term goal is to bridge the gap between traditional aircraft engineering and modern data-driven maintenance by applying Python, statistical analysis, and machine learning to aviation problems.
 
-Here are the tools and technologies I work with:
+My areas of interest include:
 
-### **Languages:**
+- ✈️ Aircraft Reliability Engineering
+- 📋 Continuing Airworthiness Management (CAMO)
+- 🔧 Maintenance Planning & Technical Records
+- 📈 Predictive Maintenance & Engine Health Monitoring
+- 🛡️ Aviation Safety & Quality Assurance
+- 🤖 Machine Learning Applications in Aerospace
+
+---
+
+## 🔬 Current Research Interests
+
+- Predicting Remaining Useful Life (RUL) of Honeywell TPE331 engines
+- Aircraft defect trend analysis and reliability monitoring
+- Fleet maintenance optimization
+- Statistical deterioration modeling
+- Engine health monitoring systems
+- Data-driven decision-making in aviation maintenance
+
+---
+
+## 🛠️ Technical Skills
+
+### Aviation & Regulatory
+
+- NCAR Part-145
+- NCAR Part-M
+- Quality Assurance & Compliance Monitoring
+- Internal & External Audits
+- Root Cause Analysis (RCA)
+- Reliability Program Development
+- Maintenance Planning Support
+- Technical Documentation
+
+### Data & Analytics
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+- Pandas
+- NumPy
+- Scikit-learn
+- Power BI
+- Microsoft Excel
+- Statistical Analysis
+- Predictive Modeling
 
-### **Backend Frameworks:**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Engineering Tools
 
-### **Databases:**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **Cloud & DevOps:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0D4B6B?style=for-the-badge&logo=circleci&logoColor=white)
-
-### **Machine Learning:**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### **Other Skills:**
-![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=rest&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-005C6D?style=for-the-badge&logo=python&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0C6F59?style=for-the-badge&logo=apache&logoColor=white)
+- FlyPal / AMOS Environment
+- Power BI Dashboards
+- Reliability Analytics
+- Data Visualization
+- Technical Reporting
 
 ---
 
-## 💡 Learning Journey
+## 📂 Featured Projects
 
-- **Advanced Django** for building more complex applications.
-- **CI/CD** practices and cloud deployments with AWS.
-- Diving deeper into **Machine Learning** and **Data Engineering**.
+🔹 Aircraft Reliability Dashboard
 
+- ATA chapter reliability analysis
+- Fleet performance monitoring
+- MTBUR and defect trend visualization
+
+🔹 Honeywell TPE331 Engine Analytics
+
+- Engine trend monitoring
+- Predictive maintenance models
+- Remaining Useful Life estimation
+
+🔹 NCAR vs EASA Compliance Matrix
+
+- Comparative analysis of aviation regulations
+- CAMO and maintenance requirements
+
+🔹 Aviation Data Science
+
+- Python notebooks for maintenance analytics
+- Reliability modeling and visualization
 
 ---
 
-> "The best way to predict the future is to invent it." – Alan Kay
+## 📚 Currently Learning
 
-
-
----
-
-## 📫🌍 Let's Connect:
-- 📧 [Email](mailto:revilabhi@gmail.com)  
-- 📟 [Telegram](https://t.me/oohyess99)  
-
+- Reliability-centered maintenance methodologies
+- Advanced aviation analytics with Python
+- Machine learning for aerospace applications
+- EASA Part-CAMO and Part-66 frameworks
+- Research methods for graduate studies
 
 ---
 
-⭐ 
+## 🎯 Career Vision (2026–2028)
 
-**Thank you for checking out my GitHub!**  
-Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or discuss any projects! 😊🚀
+My objective is to transition into roles in:
 
-<!---
-xlearn08/xlearn08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Reliability Engineering
+- CAMO & Continuing Airworthiness
+- Maintenance Planning
+- Technical Services
+- Aviation Data Analytics
+
+while preparing for graduate research opportunities in aerospace engineering and predictive maintenance.
+
+---
+
+> "The best way to predict the future is to invent it." — Alan Kay
+
+---
+
+## 🌍 Connect With Me
+
+📧 Email: revilabhi@gmail.com
+
+📟 Telegram: https://t.me/oohyess99
+
+💼 LinkedIn: Add your LinkedIn profile link here.
+
+---
+
+⭐ Thank you for visiting my GitHub profile.
+
+I am always interested in collaborating on projects involving aviation engineering, aircraft reliability, maintenance analytics, and aerospace research.
